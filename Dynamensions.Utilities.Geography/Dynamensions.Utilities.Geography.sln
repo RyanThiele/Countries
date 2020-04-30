@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Dynamensions.Utilities.Geography", "Dynamensions.Utilities.Geography\Dynamensions.Utilities.Geography.vbproj", "{A8C9A244-D0B6-4563-81A2-F72D107548D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dynamensions.Utilities.Geography.Tests", "Dynamensions.Utilities.Geography.Tests\Dynamensions.Utilities.Geography.Tests.csproj", "{245C4437-3E3C-4499-8B6B-ECDE03C3C22A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8C9A244-D0B6-4563-81A2-F72D107548D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8C9A244-D0B6-4563-81A2-F72D107548D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8C9A244-D0B6-4563-81A2-F72D107548D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8C9A244-D0B6-4563-81A2-F72D107548D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{245C4437-3E3C-4499-8B6B-ECDE03C3C22A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{245C4437-3E3C-4499-8B6B-ECDE03C3C22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{245C4437-3E3C-4499-8B6B-ECDE03C3C22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{245C4437-3E3C-4499-8B6B-ECDE03C3C22A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08AB4F93-3CEF-4F3B-B052-69F6F8379258}
+	EndGlobalSection
+EndGlobal

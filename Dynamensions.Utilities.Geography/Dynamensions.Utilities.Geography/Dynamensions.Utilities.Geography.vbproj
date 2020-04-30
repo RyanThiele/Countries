@@ -1,0 +1,245 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>Dynamensions.Utilities.Countries</RootNamespace>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\ad.png" />
+    <None Remove="Images\af.png" />
+    <None Remove="Images\ag.png" />
+    <None Remove="Images\ai.png" />
+    <None Remove="Images\al.png" />
+    <None Remove="Images\am.png" />
+    <None Remove="Images\aq.png" />
+    <None Remove="Images\ar.png" />
+    <None Remove="Images\as.png" />
+    <None Remove="Images\at.png" />
+    <None Remove="Images\au.png" />
+    <None Remove="Images\aw.png" />
+    <None Remove="Images\ax.png" />
+    <None Remove="Images\az.png" />
+    <None Remove="Images\ba.png" />
+    <None Remove="Images\bb.png" />
+    <None Remove="Images\bd.png" />
+    <None Remove="Images\be.png" />
+    <None Remove="Images\bf.png" />
+    <None Remove="Images\bg.png" />
+    <None Remove="Images\bh.png" />
+    <None Remove="Images\bi.png" />
+    <None Remove="Images\bj.png" />
+    <None Remove="Images\bm.png" />
+    <None Remove="Images\bn.png" />
+    <None Remove="Images\bo.png" />
+    <None Remove="Images\bq.png" />
+    <None Remove="Images\br.png" />
+    <None Remove="Images\bs.png" />
+    <None Remove="Images\bt.png" />
+    <None Remove="Images\bv.png" />
+    <None Remove="Images\bw.png" />
+    <None Remove="Images\by.png" />
+    <None Remove="Images\bz.png" />
+    <None Remove="Images\ca.png" />
+    <None Remove="Images\cc.png" />
+    <None Remove="Images\cd.png" />
+    <None Remove="Images\cf.png" />
+    <None Remove="Images\cg.png" />
+    <None Remove="Images\ci.png" />
+    <None Remove="Images\ck.png" />
+    <None Remove="Images\cl.png" />
+    <None Remove="Images\cm.png" />
+    <None Remove="Images\cn.png" />
+    <None Remove="Images\co.png" />
+    <None Remove="Images\cr.png" />
+    <None Remove="Images\cu.png" />
+    <None Remove="Images\cv.png" />
+    <None Remove="Images\cw.png" />
+    <None Remove="Images\cx.png" />
+    <None Remove="Images\cy.png" />
+    <None Remove="Images\cz.png" />
+    <None Remove="Images\de.png" />
+    <None Remove="Images\dj.png" />
+    <None Remove="Images\dk.png" />
+    <None Remove="Images\dm.png" />
+    <None Remove="Images\do.png" />
+    <None Remove="Images\dz.png" />
+    <None Remove="Images\ec.png" />
+    <None Remove="Images\ee.png" />
+    <None Remove="Images\eg.png" />
+    <None Remove="Images\er.png" />
+    <None Remove="Images\et.png" />
+    <None Remove="Images\fi.png" />
+    <None Remove="Images\fj.png" />
+    <None Remove="Images\fk.png" />
+    <None Remove="Images\fo.png" />
+    <None Remove="Images\fr.png" />
+    <None Remove="Images\ga.png" />
+    <None Remove="Images\gb-eng.png" />
+    <None Remove="Images\gd.png" />
+    <None Remove="Images\ge.png" />
+    <None Remove="Images\gf.png" />
+    <None Remove="Images\gg.png" />
+    <None Remove="Images\gh.png" />
+    <None Remove="Images\gi.png" />
+    <None Remove="Images\gl.png" />
+    <None Remove="Images\gm.png" />
+    <None Remove="Images\gn.png" />
+    <None Remove="Images\gp.png" />
+    <None Remove="Images\gq.png" />
+    <None Remove="Images\gr.png" />
+    <None Remove="Images\gt.png" />
+    <None Remove="Images\gu.png" />
+    <None Remove="Images\gw.png" />
+    <None Remove="Images\gy.png" />
+    <None Remove="Images\hk.png" />
+    <None Remove="Images\hm.png" />
+    <None Remove="Images\hr.png" />
+    <None Remove="Images\ht.png" />
+    <None Remove="Images\hu.png" />
+    <None Remove="Images\id.png" />
+    <None Remove="Images\ie.png" />
+    <None Remove="Images\il.png" />
+    <None Remove="Images\im.png" />
+    <None Remove="Images\in.png" />
+    <None Remove="Images\io.png" />
+    <None Remove="Images\iq.png" />
+    <None Remove="Images\ir.png" />
+    <None Remove="Images\is.png" />
+    <None Remove="Images\it.png" />
+    <None Remove="Images\kh.png" />
+    <None Remove="Images\km.png" />
+    <None Remove="Images\ky.png" />
+    <None Remove="Images\pf.png" />
+    <None Remove="Images\sv.png" />
+    <None Remove="Images\sz.png" />
+    <None Remove="Images\td.png" />
+    <None Remove="Images\tf.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Images\gy.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Images\gd.png" />
+    <EmbeddedResource Include="Images\gg.png" />
+    <EmbeddedResource Include="Images\gh.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Images\bf.png" />
+    <EmbeddedResource Include="Images\bg.png" />
+    <EmbeddedResource Include="Images\bi.png" />
+    <EmbeddedResource Include="Images\bn.png" />
+    <EmbeddedResource Include="Images\bq.png" />
+    <EmbeddedResource Include="Images\br.png" />
+    <EmbeddedResource Include="Images\bv.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Images\ad.png" />
+    <EmbeddedResource Include="Images\af.png" />
+    <EmbeddedResource Include="Images\ag.png" />
+    <EmbeddedResource Include="Images\ai.png" />
+    <EmbeddedResource Include="Images\al.png" />
+    <EmbeddedResource Include="Images\am.png" />
+    <EmbeddedResource Include="Images\aq.png" />
+    <EmbeddedResource Include="Images\ar.png" />
+    <EmbeddedResource Include="Images\as.png" />
+    <EmbeddedResource Include="Images\at.png" />
+    <EmbeddedResource Include="Images\au.png" />
+    <EmbeddedResource Include="Images\aw.png" />
+    <EmbeddedResource Include="Images\ax.png" />
+    <EmbeddedResource Include="Images\az.png" />
+    <EmbeddedResource Include="Images\ba.png" />
+    <EmbeddedResource Include="Images\bb.png" />
+    <EmbeddedResource Include="Images\bd.png" />
+    <EmbeddedResource Include="Images\be.png" />
+    <EmbeddedResource Include="Images\bh.png" />
+    <EmbeddedResource Include="Images\bj.png" />
+    <EmbeddedResource Include="Images\bm.png" />
+    <EmbeddedResource Include="Images\bo.png" />
+    <EmbeddedResource Include="Images\bs.png" />
+    <EmbeddedResource Include="Images\bt.png" />
+    <EmbeddedResource Include="Images\bw.png" />
+    <EmbeddedResource Include="Images\by.png" />
+    <EmbeddedResource Include="Images\bz.png" />
+    <EmbeddedResource Include="Images\ca.png" />
+    <EmbeddedResource Include="Images\cc.png" />
+    <EmbeddedResource Include="Images\cd.png" />
+    <EmbeddedResource Include="Images\cf.png" />
+    <EmbeddedResource Include="Images\cg.png" />
+    <EmbeddedResource Include="Images\ci.png" />
+    <EmbeddedResource Include="Images\ck.png" />
+    <EmbeddedResource Include="Images\cl.png" />
+    <EmbeddedResource Include="Images\cm.png" />
+    <EmbeddedResource Include="Images\cn.png" />
+    <EmbeddedResource Include="Images\co.png" />
+    <EmbeddedResource Include="Images\cr.png" />
+    <EmbeddedResource Include="Images\cu.png" />
+    <EmbeddedResource Include="Images\cv.png" />
+    <EmbeddedResource Include="Images\cw.png" />
+    <EmbeddedResource Include="Images\cx.png" />
+    <EmbeddedResource Include="Images\cy.png" />
+    <EmbeddedResource Include="Images\cz.png" />
+    <EmbeddedResource Include="Images\de.png" />
+    <EmbeddedResource Include="Images\dj.png" />
+    <EmbeddedResource Include="Images\dk.png" />
+    <EmbeddedResource Include="Images\dm.png" />
+    <EmbeddedResource Include="Images\do.png" />
+    <EmbeddedResource Include="Images\dz.png" />
+    <EmbeddedResource Include="Images\ec.png" />
+    <EmbeddedResource Include="Images\ee.png" />
+    <EmbeddedResource Include="Images\eg.png" />
+    <EmbeddedResource Include="Images\er.png" />
+    <EmbeddedResource Include="Images\et.png" />
+    <EmbeddedResource Include="Images\fi.png" />
+    <EmbeddedResource Include="Images\fj.png" />
+    <EmbeddedResource Include="Images\fk.png" />
+    <EmbeddedResource Include="Images\fo.png" />
+    <EmbeddedResource Include="Images\fr.png" />
+    <EmbeddedResource Include="Images\ga.png" />
+    <EmbeddedResource Include="Images\gb-eng.png" />
+    <EmbeddedResource Include="Images\ge.png" />
+    <EmbeddedResource Include="Images\gf.png" />
+    <EmbeddedResource Include="Images\gi.png" />
+    <EmbeddedResource Include="Images\gl.png" />
+    <EmbeddedResource Include="Images\gm.png" />
+    <EmbeddedResource Include="Images\gn.png" />
+    <EmbeddedResource Include="Images\gp.png" />
+    <EmbeddedResource Include="Images\gq.png" />
+    <EmbeddedResource Include="Images\gr.png" />
+    <EmbeddedResource Include="Images\gt.png" />
+    <EmbeddedResource Include="Images\gu.png" />
+    <EmbeddedResource Include="Images\gw.png" />
+    <EmbeddedResource Include="Images\hk.png" />
+    <EmbeddedResource Include="Images\hm.png" />
+    <EmbeddedResource Include="Images\hr.png" />
+    <EmbeddedResource Include="Images\ht.png" />
+    <EmbeddedResource Include="Images\hu.png" />
+    <EmbeddedResource Include="Images\id.png" />
+    <EmbeddedResource Include="Images\ie.png" />
+    <EmbeddedResource Include="Images\il.png" />
+    <EmbeddedResource Include="Images\im.png" />
+    <EmbeddedResource Include="Images\in.png" />
+    <EmbeddedResource Include="Images\io.png" />
+    <EmbeddedResource Include="Images\iq.png" />
+    <EmbeddedResource Include="Images\ir.png" />
+    <EmbeddedResource Include="Images\is.png" />
+    <EmbeddedResource Include="Images\it.png" />
+    <EmbeddedResource Include="Images\kh.png" />
+    <EmbeddedResource Include="Images\km.png" />
+    <EmbeddedResource Include="Images\ky.png" />
+    <EmbeddedResource Include="Images\pf.png" />
+    <EmbeddedResource Include="Images\sv.png" />
+    <EmbeddedResource Include="Images\sz.png" />
+    <EmbeddedResource Include="Images\td.png" />
+    <EmbeddedResource Include="Images\tf.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Drawing.Common" Version="4.7.0" />
+  </ItemGroup>
+
+</Project>
