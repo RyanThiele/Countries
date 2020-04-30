@@ -1,4 +1,4 @@
-# Countries
+# Geography
 A helper class for projects that use countries
 
 - Language: Visual Basic.NET
