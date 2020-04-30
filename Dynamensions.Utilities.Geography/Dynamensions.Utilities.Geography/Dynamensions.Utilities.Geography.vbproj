@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <RootNamespace>Dynamensions.Utilities.Countries</RootNamespace>
+    <RootNamespace>Dynamensions.Utilities.Geography</RootNamespace>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
@@ -12,6 +12,7 @@
     <None Remove="Images\ai.png" />
     <None Remove="Images\al.png" />
     <None Remove="Images\am.png" />
+    <None Remove="Images\ao.png" />
     <None Remove="Images\aq.png" />
     <None Remove="Images\ar.png" />
     <None Remove="Images\as.png" />
@@ -94,6 +95,7 @@
     <None Remove="Images\gy.png" />
     <None Remove="Images\hk.png" />
     <None Remove="Images\hm.png" />
+    <None Remove="Images\hn.png" />
     <None Remove="Images\hr.png" />
     <None Remove="Images\ht.png" />
     <None Remove="Images\hu.png" />
@@ -107,9 +109,16 @@
     <None Remove="Images\ir.png" />
     <None Remove="Images\is.png" />
     <None Remove="Images\it.png" />
+    <None Remove="Images\je.png" />
+    <None Remove="Images\jm.png" />
+    <None Remove="Images\jo.png" />
+    <None Remove="Images\jp.png" />
+    <None Remove="Images\ke.png" />
     <None Remove="Images\kh.png" />
+    <None Remove="Images\ki.png" />
     <None Remove="Images\km.png" />
     <None Remove="Images\ky.png" />
+    <None Remove="Images\kz.png" />
     <None Remove="Images\pf.png" />
     <None Remove="Images\sv.png" />
     <None Remove="Images\sz.png" />
@@ -118,6 +127,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="Images\ao.png" />
     <EmbeddedResource Include="Images\gy.png" />
   </ItemGroup>
 
@@ -215,6 +225,7 @@
     <EmbeddedResource Include="Images\gw.png" />
     <EmbeddedResource Include="Images\hk.png" />
     <EmbeddedResource Include="Images\hm.png" />
+    <EmbeddedResource Include="Images\hn.png" />
     <EmbeddedResource Include="Images\hr.png" />
     <EmbeddedResource Include="Images\ht.png" />
     <EmbeddedResource Include="Images\hu.png" />
@@ -228,9 +239,16 @@
     <EmbeddedResource Include="Images\ir.png" />
     <EmbeddedResource Include="Images\is.png" />
     <EmbeddedResource Include="Images\it.png" />
+    <EmbeddedResource Include="Images\je.png" />
+    <EmbeddedResource Include="Images\jm.png" />
+    <EmbeddedResource Include="Images\jo.png" />
+    <EmbeddedResource Include="Images\jp.png" />
+    <EmbeddedResource Include="Images\ke.png" />
     <EmbeddedResource Include="Images\kh.png" />
+    <EmbeddedResource Include="Images\ki.png" />
     <EmbeddedResource Include="Images\km.png" />
     <EmbeddedResource Include="Images\ky.png" />
+    <EmbeddedResource Include="Images\kz.png" />
     <EmbeddedResource Include="Images\pf.png" />
     <EmbeddedResource Include="Images\sv.png" />
     <EmbeddedResource Include="Images\sz.png" />

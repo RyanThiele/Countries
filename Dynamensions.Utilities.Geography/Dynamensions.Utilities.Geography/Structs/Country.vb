@@ -133,8 +133,9 @@ Public Structure Country
         Me.InternetTopLevelDomain = toplevelDomain
 
         If Not String.IsNullOrWhiteSpace(flagImagePath) Then
+            Dim tt = Me.GetType().GetTypeInfo().Assembly.GetManifestResourceNames()
             Dim assembly As Assembly = Me.GetType().Assembly
-            Dim resourceName As String = "Dynamensions.Utilties.Countries.Images." & flagImagePath
+            Dim resourceName As String = $"{assembly.GetName().Name}.{flagImagePath}"
 
             Using resourceStream As Stream = assembly.GetManifestResourceStream(resourceName)
                 If resourceStream IsNot Nothing Then
