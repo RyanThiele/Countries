@@ -114,16 +114,30 @@
     <None Remove="Images\jo.png" />
     <None Remove="Images\jp.png" />
     <None Remove="Images\ke.png" />
+    <None Remove="Images\kg.png" />
     <None Remove="Images\kh.png" />
     <None Remove="Images\ki.png" />
     <None Remove="Images\km.png" />
+    <None Remove="Images\kp.png" />
+    <None Remove="Images\kr.png" />
+    <None Remove="Images\kw.png" />
     <None Remove="Images\ky.png" />
     <None Remove="Images\kz.png" />
+    <None Remove="Images\la.png" />
+    <None Remove="Images\lb.png" />
+    <None Remove="Images\li.png" />
+    <None Remove="Images\lr.png" />
+    <None Remove="Images\ls.png" />
+    <None Remove="Images\lt.png" />
+    <None Remove="Images\lu.png" />
+    <None Remove="Images\lv.png" />
+    <None Remove="Images\ly.png" />
     <None Remove="Images\pf.png" />
     <None Remove="Images\sv.png" />
     <None Remove="Images\sz.png" />
     <None Remove="Images\td.png" />
     <None Remove="Images\tf.png" />
+    <None Remove="Images\xk.png" />
   </ItemGroup>
 
   <ItemGroup>
@@ -244,16 +258,30 @@
     <EmbeddedResource Include="Images\jo.png" />
     <EmbeddedResource Include="Images\jp.png" />
     <EmbeddedResource Include="Images\ke.png" />
+    <EmbeddedResource Include="Images\kg.png" />
     <EmbeddedResource Include="Images\kh.png" />
     <EmbeddedResource Include="Images\ki.png" />
     <EmbeddedResource Include="Images\km.png" />
+    <EmbeddedResource Include="Images\kp.png" />
+    <EmbeddedResource Include="Images\kr.png" />
+    <EmbeddedResource Include="Images\kw.png" />
     <EmbeddedResource Include="Images\ky.png" />
     <EmbeddedResource Include="Images\kz.png" />
+    <EmbeddedResource Include="Images\la.png" />
+    <EmbeddedResource Include="Images\lb.png" />
+    <EmbeddedResource Include="Images\li.png" />
+    <EmbeddedResource Include="Images\lr.png" />
+    <EmbeddedResource Include="Images\ls.png" />
+    <EmbeddedResource Include="Images\lt.png" />
+    <EmbeddedResource Include="Images\lu.png" />
+    <EmbeddedResource Include="Images\lv.png" />
+    <EmbeddedResource Include="Images\ly.png" />
     <EmbeddedResource Include="Images\pf.png" />
     <EmbeddedResource Include="Images\sv.png" />
     <EmbeddedResource Include="Images\sz.png" />
     <EmbeddedResource Include="Images\td.png" />
     <EmbeddedResource Include="Images\tf.png" />
+    <EmbeddedResource Include="Images\xk.png" />
   </ItemGroup>
 
   <ItemGroup>
