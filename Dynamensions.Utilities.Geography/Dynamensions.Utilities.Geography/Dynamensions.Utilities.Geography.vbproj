@@ -73,6 +73,7 @@
     <None Remove="Images\fi.png" />
     <None Remove="Images\fj.png" />
     <None Remove="Images\fk.png" />
+    <None Remove="Images\fm.png" />
     <None Remove="Images\fo.png" />
     <None Remove="Images\fr.png" />
     <None Remove="Images\ga.png" />
@@ -132,16 +133,38 @@
     <None Remove="Images\lu.png" />
     <None Remove="Images\lv.png" />
     <None Remove="Images\ly.png" />
+    <None Remove="Images\ma.png" />
+    <None Remove="Images\mc.png" />
+    <None Remove="Images\md.png" />
+    <None Remove="Images\me.png" />
+    <None Remove="Images\mg.png" />
+    <None Remove="Images\mh.png" />
+    <None Remove="Images\ml.png" />
+    <None Remove="Images\mm.png" />
+    <None Remove="Images\mn.png" />
+    <None Remove="Images\mo.png" />
+    <None Remove="Images\mq.png" />
+    <None Remove="Images\mr.png" />
+    <None Remove="Images\ms.png" />
+    <None Remove="Images\mt.png" />
+    <None Remove="Images\mu.png" />
+    <None Remove="Images\mv.png" />
+    <None Remove="Images\mw.png" />
+    <None Remove="Images\mx.png" />
+    <None Remove="Images\my.png" />
+    <None Remove="Images\mz.png" />
     <None Remove="Images\pf.png" />
     <None Remove="Images\sv.png" />
     <None Remove="Images\sz.png" />
     <None Remove="Images\td.png" />
     <None Remove="Images\tf.png" />
     <None Remove="Images\xk.png" />
+    <None Remove="Images\yt.png" />
   </ItemGroup>
 
   <ItemGroup>
     <EmbeddedResource Include="Images\ao.png" />
+    <EmbeddedResource Include="Images\fm.png" />
     <EmbeddedResource Include="Images\gy.png" />
   </ItemGroup>
 
@@ -276,12 +299,33 @@
     <EmbeddedResource Include="Images\lu.png" />
     <EmbeddedResource Include="Images\lv.png" />
     <EmbeddedResource Include="Images\ly.png" />
+    <EmbeddedResource Include="Images\ma.png" />
+    <EmbeddedResource Include="Images\mc.png" />
+    <EmbeddedResource Include="Images\md.png" />
+    <EmbeddedResource Include="Images\me.png" />
+    <EmbeddedResource Include="Images\mg.png" />
+    <EmbeddedResource Include="Images\mh.png" />
+    <EmbeddedResource Include="Images\ml.png" />
+    <EmbeddedResource Include="Images\mm.png" />
+    <EmbeddedResource Include="Images\mn.png" />
+    <EmbeddedResource Include="Images\mo.png" />
+    <EmbeddedResource Include="Images\mq.png" />
+    <EmbeddedResource Include="Images\mr.png" />
+    <EmbeddedResource Include="Images\ms.png" />
+    <EmbeddedResource Include="Images\mt.png" />
+    <EmbeddedResource Include="Images\mu.png" />
+    <EmbeddedResource Include="Images\mv.png" />
+    <EmbeddedResource Include="Images\mw.png" />
+    <EmbeddedResource Include="Images\mx.png" />
+    <EmbeddedResource Include="Images\my.png" />
+    <EmbeddedResource Include="Images\mz.png" />
     <EmbeddedResource Include="Images\pf.png" />
     <EmbeddedResource Include="Images\sv.png" />
     <EmbeddedResource Include="Images\sz.png" />
     <EmbeddedResource Include="Images\td.png" />
     <EmbeddedResource Include="Images\tf.png" />
     <EmbeddedResource Include="Images\xk.png" />
+    <EmbeddedResource Include="Images\yt.png" />
   </ItemGroup>
 
   <ItemGroup>

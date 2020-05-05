@@ -95,6 +95,7 @@ Public Class Currencies
         Add(New Currency("Macedonian denar", "MKD"))
         Add(New Currency("Burmese kyat", "MMK"))
         Add(New Currency("Mongolian tögrög", "MNT"))
+        Add(New Currency("Macanese pataca", "MOP"))
         Add(New Currency("Mauritanian ouguiya", "MRO"))
         Add(New Currency("Mauritian rupee", "MUR"))
         Add(New Currency("Maldivian rufiyaa", "MVR"))
